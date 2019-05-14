@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Leap
+  - LeapR
   layers:
   - Default
   - TransparentFX
@@ -14,12 +16,12 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - interactuable 1
+  - interactuable 2
+  - interactuable 3
+  - interactuable 4
+  - interactuable 5
+  - interactuable 6
   - 
   - 
   - 
